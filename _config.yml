@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : #"Congcong Yuan"
-  avatar           : "images/bio_congcong.jpeg"
+  avatar           : "./images/bio_congcong.jpg"
   bio              : "I am a seismologist studying earthquakes and Earth structures."
   location         : "Harvard"
   employer         :
