@@ -84,7 +84,7 @@ To demonstrate the usefulness of our methods, we apply them in various scenarios
 
 ### 1. Visualizing & Listening to Fluid-induced Fracturing
 
-Check out our fracturing animations from 1. [high_viscosity fluid](https://drive.google.com/drive/u/0/folders/1rsgFlAbrbZcIfbOr5v3frI8qKl_3lFYK); 2. [low-viscosity fluid](https://drive.google.com/drive/u/0/folders/1rsgFlAbrbZcIfbOr5v3frI8qKl_3lFYK)
+Check out our fracturing animations from 1. [high_viscosity fluid](https://drive.google.com/file/d/1vr9rhLFWpas1HgIyy1EzmHkTuIoM5RPO/view?usp=sharing); 2. [low-viscosity fluid](https://drive.google.com/file/d/10FHtwsOBSn-2d39wFejzrWumadC3VDPp/view?usp=sharing)
 
 The modes of fracturing in Earth materials exhibit a wide spectrum of time and length scales. The upper bound of the rupture velocity is close to shear-wave speed while the lower bound is not well known. For example, tremors are characterized by the seismic signals observed accompanying the aseismic slip signals, which reflects a complexity in the rupture mechanism compared to the classical earthquake.
 
