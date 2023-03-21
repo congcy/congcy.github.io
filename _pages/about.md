@@ -11,7 +11,8 @@ I am currently a Ph.D. student studying seismology at [Department of Earth and P
 
 To better assess and mitigate seismic hazards, I am particularly interested in the monitoring of earthquakes and subsurface material properties. I am also highly interested in high-performance computing, data science, and fracture mechanics. My recent study focus on how fluid triggers earthquakes and how fluid and fracture influence the seismic properties of Earth and lab materials. 
 
-Aside from the research, I prefer music, basketball, and hiking for my entertainment.
+Aside from the research, I prefer music, basketball, and hiking for my entertainment. Check out my resume! 👉 [CV](https://drive.google.com/file/d/1Ue14IPzCcy7-cKdK7capclekSvtHYp30/view)
+
 
 ## Recent News
 
