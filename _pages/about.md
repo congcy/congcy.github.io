@@ -17,10 +17,12 @@ Aside from the research, I prefer music, basketball, and hiking for my entertain
 
 ## Recent News
 
-### 📅 **March 19, 2023**
+### 📅 ** April 17, 2023**
 
 🎉 **Exciting Announcement!**
-I'm thrilled to announce that I've migrated my personal website from [Notion version](https://www.notion.so/congcongyuan/Congcong-Yuan-ec3bd07b959c42978e6e90d41b4f75b9?pvs=4) to this new version. Stay tuned for more updates!
+📢 Excited to announce that I'll be presenting two posters at the SSA conference this Wednesday! 🌟 Join in me exploring ELEP and SmartFilter for earthquake data processing. Can't wait to share our progress and connect with fellows. #SSA23
+
+<!-- I'm thrilled to announce that I've migrated my personal website from [Notion version](https://www.notion.so/congcongyuan/Congcong-Yuan-ec3bd07b959c42978e6e90d41b4f75b9?pvs=4) to this new version. Stay tuned for more updates! -->
 
 <!-- 📚 **New Publication**
 My latest paper, titled "Innovations in Deep Learning for Text Analysis," has been published in the prestigious Journal of Artificial Intelligence Research. Check it out [here](https://example.com/your-paper-link)!
