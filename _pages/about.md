@@ -12,7 +12,7 @@ I am currently a Ph.D. student studying seismology at [Department of Earth and P
 As a seismologist, I conduct laboratory experiments and employ numerical simulations to interpret field observations. Conversely, I utilize extensive field data to inform and enhance theoretical models and simulations. My overarching goal is to integrate laboratory research, computational simulations, and observational data to effectively monitor earthquakes and subsurface activities, as well as to investigate novel methods for potential seismic hazard forecasting.
 My recent study focus on how fluid triggers earthquakes and how fluid and fracture influence the seismic properties of Earth and lab materials. 
 
-Aside from the research, I prefer music, basketball, and hiking for my entertainment. Check out my resume! 👉 [CV](https://drive.google.com/file/d/1Ue14IPzCcy7-cKdK7capclekSvtHYp30/view)
+Aside from the research, I prefer music, basketball, and hiking for my entertainment. Check out my resume! 👉 [CV](https://drive.google.com/file/d/1oMmUdXfMihD8HY3RWPwxTvRNDbEEgrNF/view?usp=sharing)
 
 
 ## Recent News
