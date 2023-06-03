@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Cambridge, United States"
 ---
 
-This is the seminar-based class taught by Marine Denolle and Bradley Lipovsky in the fall of year 2019. They are both currently professors at University of Washington. I was fortunately to be an invited guest lecturer for this class. I gave a lecture on the topic of "Machine Learning in Seismology". The slides can be found [lecture01](https://docs.google.com/presentation/d/1e3aktPLBpDJuVLZHS7Iy_dqkchhp0bP2/edit?usp=sharing&ouid=115881847478359533712&rtpof=true&sd=true) [lecture02](https://docs.google.com/presentation/d/10l6lOxC4M-2KAGWGGVahARrw7x_f6Xv2/edit?usp=sharing&ouid=115881847478359533712&rtpof=true&sd=true)
+This is the seminar-based class taught by (Marine Denolle)[https://denolle-lab.github.io/] and (Bradley Lipovsky)[https://bradlipovsky.github.io/] in the fall of year 2019. They are both currently professors at University of Washington. I was fortunately to be an invited guest lecturer for this class. I gave a lecture on the topic of "Machine Learning in Seismology". The slides can be found [lecture01](https://docs.google.com/presentation/d/1e3aktPLBpDJuVLZHS7Iy_dqkchhp0bP2/edit?usp=sharing&ouid=115881847478359533712&rtpof=true&sd=true) [lecture02](https://docs.google.com/presentation/d/10l6lOxC4M-2KAGWGGVahARrw7x_f6Xv2/edit?usp=sharing&ouid=115881847478359533712&rtpof=true&sd=true)
 
 Course Description
 ==================
