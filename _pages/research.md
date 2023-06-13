@@ -91,3 +91,7 @@ The modes of fracturing in Earth materials exhibit a wide spectrum of time and l
 ### 2. Visualizing & Listening to Fluid-induced Frictional Slips
 
 ### 3. Non-linear changes in mechanical properties of laboratory materials
+
+
+
+![MIT_iDAS_032022.gif](../images/blog/MIT_iDAS_032022.gif)
