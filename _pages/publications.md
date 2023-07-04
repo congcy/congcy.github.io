@@ -10,8 +10,8 @@ Note: (*) denotes the corresponding author. Check out my [google scholar](https:
 ## In Progress (5)
 
 - **Yuan*, C.**, Lin, Y. & Denolle, M., Reconstructing Seismograms via Self-supervised Learning. [In preparation]
-- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M., Ensemble Learning for Earthquake Detection and Phase Picking. [To be submitted]
-- **Yuan*, C.**, Cochard, T., Ulberg, C., Denolle, M., Creager, K. & Weitz, D., Characterization of Experimentally Induced Tremor-like Events. [To be submitted]
+- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M., Ensemble Learning for Earthquake Detection and Phase Picking. [Under review]
+- **Yuan*, C.**, Cochard, T., Ulberg, C., Denolle, M., Creager, K. & Weitz, D., Characterization of Experimentally Induced Tremor-like Events. [to be submitted]
 - Cochard, T., Svetlizky, I., Albertini, G., Viesca, R., **Yuan, C.**, Denolle, M., Song, Y., Xiao, L. & Weitz*, D. Stick-break mechanism of fluid-induced fracturing. Nature Physics. [Under review]
 - Kuang, W., **Yuan, C.**, Zhang, J. & Zhang*, W. Autonomous Earthquake Robot-Deep Reinforcement Learning for End-to-End Earthquake Location. Seismological Research Letter. [In review]
 
