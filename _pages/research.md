@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Research_interests_20220924.jpg](../images/research/PhD_reseach_subjects_website.jpg)
+![Research_interests_20220924.jpg](../images/research/PhD_reseach_subjects_website.png)
 
 ## High-performance Earthquake Monitoring
 
