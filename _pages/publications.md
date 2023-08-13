@@ -10,8 +10,8 @@ Note: (*) denotes the corresponding author. Check out my [google scholar](https:
 ## In Progress (5)
 
 - **Yuan*, C.**, Lin, Y. & Denolle, M., Reconstructing Seismograms via Self-supervised Learning. [In preparation]
-- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M., Ensemble Learning for Earthquake Detection and Phase Picking. [Under review]
-- **Yuan*, C.**, Cochard, T., Denolle, M., Gomberg, J., Wech, A., Xiao, X. & Weitz, D., Laboratory Hydrofractures as Analogs to Tectonic Tremors. [Submitted]
+- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M., Ensemble Learning for Earthquake Detection and Phase Picking. [In review]
+- **Yuan*, C.**, Cochard, T., Denolle, M., Gomberg, J., Wech, A., Xiao, X. & Weitz, D., Laboratory Hydrofractures as Analogs to Tectonic Tremors. [Under review]
 - Cochard, T., Svetlizky, I., Albertini, G., Viesca, R., **Yuan, C.**, Denolle, M., Song, Y., Xiao, L. & Weitz*, D. Unexpected Dynamics in the Propagation of Fracture Fronts. Nature Physics. [Under review]
 - Kuang, W., **Yuan, C.**, Zhang, J. & Zhang*, W. Autonomous Earthquake Robot-Deep Reinforcement Learning for End-to-End Earthquake Location. Seismological Research Letter. [In review]
 
