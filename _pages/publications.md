@@ -17,8 +17,8 @@ Note: (*) denotes the corresponding author. Check out my [google scholar](https:
 ## Peer-reviewed Articles (12)
 
 ---
-- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M., Ensemble Learning for Earthquake Detection and Phase Picking. IEEE TGRS. [In press]
-- Kuang, W., **Yuan, C.**, Zhang, J. & Zhang*, W. Autonomous Earthquake Robot-Deep Reinforcement Learning for End-to-End Earthquake Location. Seismological Research Letter. [In press]
+- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M. (2023) Ensemble Learning for Earthquake Detection and Phase Picking. IEEE TGRS. [In press]
+- Kuang, W., **Yuan, C.**, Zhang, J. & Zhang*, W. (2023) Autonomous Earthquake Robot-Deep Reinforcement Learning for End-to-End Earthquake Location. Seismological Research Letter. [In press]
 - Kuang, W., **Yuan, C.,** Zhang, J. & Zhang*, W. (2022) Relative Inversion Improves the Accuracy of Earthquake Focal Mechanisms. Seismological Research Letter. [**doi:** [https://doi.org/10.1785/0220210370](https://doi.org/10.1785/0220210370)]
 - Yang, Z., **Yuan, C.** & Denolle*, M. (2022) Detecting Elevated Pore Pressure in the Guy-Greenbrier Fault Zone using Ambient Noise Monitoring. The Seismic Record. [**doi:** [10.1785/0320210036](https://doi.org/10.1785/0320210036)]
 - **Yuan*, C.**, Bryan, J. & Denolle, M. A. (2021) Numerical comparison of time-, frequency-, and wavelet-domain methods for coda wave interferometry. Geophysical Journal International. [**doi:** [10.1093/gji/ggab140](https://doi.org/10.1093/gji/ggab140)].
