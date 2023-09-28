@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student studying seismology at [Department of Earth and Planetary Sciences](https://eps.harvard.edu/people/congcong-yuan), Harvard University, where I am fortunately co-advised by [Marine Denolle](https://quake.fas.harvard.edu/) and [John Shaw](https://structure.harvard.edu/). Before that, I obtained my master degree in solid geophysics under the supervision of [Jie Zhang](https://en.ess.ustc.edu.cn/2012/0827/c27105a92978/page.htm).
+I am currently a Ph.D. student studying seismology at [Department of Earth and Planetary Sciences](https://eps.harvard.edu/people/congcong-yuan), Harvard University, where I am fortunately co-advised by [Marine Denolle](https://quake.fas.harvard.edu/) and [John Shaw](https://structure.harvard.edu/). Before that, I obtained my master degree in solid geophysics at University of Science and Technology of China (USTC), under the supervision of [Jie Zhang](https://en.ess.ustc.edu.cn/2012/0827/c27105a92978/page.htm).
 
 As a seismologist, I conduct laboratory experiments and employ numerical simulations to interpret field observations. Conversely, I utilize extensive field data to inform and enhance theoretical models and simulations. My overarching goal is to integrate laboratory research, computational simulations, and observational data to effectively monitor earthquakes and subsurface activities, as well as to investigate novel methods for potential seismic hazard forecasting.
 My recent study focus on how fluid triggers earthquakes and how fluid and fracture influence the seismic properties of Earth and lab materials. 
