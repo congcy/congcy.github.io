@@ -17,10 +17,12 @@ Aside from the research, I prefer music, basketball, and hiking for my entertain
 
 ## Recent News
 
-### 📅 ** April 17, 2023**
+<!-- ### 📅 ** April 17, 2023** -->
 
 🎉 **Exciting Announcement!**
-📢 Excited to announce that I'll be presenting two posters at the SSA conference this Wednesday! 🌟 Join in me exploring ELEP and SmartFilter for earthquake data processing. Can't wait to share our progress and connect with fellows. #SSA23
+📢 I'll be presenting a talk at the AGU conference on December 12th! 🌟 [Here](link) is the early-released talk I recorded. #[AGU2023](https://www.agu.org/fall-meeting)-[T22A-06](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1297631)
+
+<!-- 📢 Excited to announce that I'll be presenting two posters at the SSA conference this Wednesday! 🌟 Join in me exploring ELEP and SmartFilter for earthquake data processing. Can't wait to share our progress and connect with fellows. #SSA23 -->
 
 <!-- I'm thrilled to announce that I've migrated my personal website from [Notion version](https://www.notion.so/congcongyuan/Congcong-Yuan-ec3bd07b959c42978e6e90d41b4f75b9?pvs=4) to this new version. Stay tuned for more updates! -->
 

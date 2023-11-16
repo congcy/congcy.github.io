@@ -12,13 +12,13 @@ Note: (*) denotes the corresponding author. Check out my [google scholar](https:
 - **Yuan*, C.**, & Zhang, J., Ensemble Learning for Earthquake First-Motion Polarity Determination. [In preparation]
 - **Yuan*, C.**, Lin, Y., Denolle, M. & Shaw, J. Reconstructing Seismograms via Self-supervised Learning. [In preparation]
 - **Yuan*, C.**, Cochard, T., Denolle, M., Gomberg, J., Wech, A., Xiao, X. & Weitz, D., Laboratory Hydrofractures as Analogs to Tectonic Tremors. [In review]
-- Cochard, T., Svetlizky, I., Albertini, G., Viesca, R., **Yuan, C.**, Denolle, M., Song, Y., Xiao, L. & Weitz*, D. Unexpected Dynamics in the Propagation of Fracture Fronts. Nature Physics. [In review]
+- Cochard, T., Svetlizky, I., Albertini, G., Viesca, R., **Yuan, C.**, Denolle, M., Song, Y., Xiao, L. & Weitz*, D. Unexpected Dynamics in the Propagation of Fracture Fronts. Nature Physics. [Accepted]
 
 ## Peer-reviewed Articles (12)
 
 ---
-- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M. (2023) Better Together: Ensemble Learning for Earthquake Detection and Phase Picking. IEEE TGRS. [In press]
-- Kuang, W., **Yuan, C.**, Zhang, J. & Zhang*, W. (2023) Autonomous Earthquake Location via Deep Reinforcement Learning. Seismological Research Letter. [In press]
+- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M. (2023) Better Together: Ensemble Learning for Earthquake Detection and Phase Picking. EEE Transactions on Geoscience and Remote Sensing, 61. [**doi:** [https:10.1109/TGRS.2023.3320148](https:10.1109/TGRS.2023.3320148)]
+- Kuang, W., **Yuan, C.**, Zou, Z., Zhang, J. & Zhang*, W. (2023) Autonomous Earthquake Location via Deep Reinforcement Learning. Seismological Research Letter. [**doi:** [https:doi.org/10.1785/0220230118](https:doi.org/10.1785/0220230118)]
 - Kuang, W., **Yuan, C.,** Zhang, J. & Zhang*, W. (2022) Relative Inversion Improves the Accuracy of Earthquake Focal Mechanisms. Seismological Research Letter. [**doi:** [https://doi.org/10.1785/0220210370](https://doi.org/10.1785/0220210370)]
 - Yang, Z., **Yuan, C.** & Denolle*, M. (2022) Detecting Elevated Pore Pressure in the Guy-Greenbrier Fault Zone using Ambient Noise Monitoring. The Seismic Record. [**doi:** [10.1785/0320210036](https://doi.org/10.1785/0320210036)]
 - **Yuan*, C.**, Bryan, J. & Denolle, M. A. (2021) Numerical comparison of time-, frequency-, and wavelet-domain methods for coda wave interferometry. Geophysical Journal International. [**doi:** [10.1093/gji/ggab140](https://doi.org/10.1093/gji/ggab140)].
