@@ -14,7 +14,7 @@ As a geophysicist, I am studying seismoacoustic wave physics to understand and i
 Aside from the research, I prefer music, basketball, and hiking for my entertainment.
 
 
-## Recent News
+<!-- ## Recent News -->
 
 <!-- ### 📅 ** April 17, 2023** -->
 
