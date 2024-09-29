@@ -11,7 +11,7 @@ redirect_from:
 
 ![Research_interests_20220924.jpg](../images/research/PhD_reseach_subjects_website.png)
 
-## High-performance Earthquake Monitoring
+<!-- ## High-performance Earthquake Monitoring
 
 ### 1. Hydraulic Fracturing & Microseismic monitoring
 
@@ -21,9 +21,9 @@ Microseismic monitoring plays an increasingly important role in mining, reservoi
 
 1. characterize fracture geometry and size in terms of event location and moment.
 2. image directly fractures or faults produced in stimulated areas.
-3. invert for the geomechanic parameters of stimulated areas, such as velocity ratio or Poisson’s ratio.
+3. invert for the geomechanic parameters of stimulated areas, such as velocity ratio or Poisson’s ratio. -->
 
-**Selected publications:**
+<!-- **Selected publications:**
 
 - **Yuan, C.** & Zhang, J. (2018) A feasibility study of imaging hydraulic fractures with anisotropic reverse time migration. *Journal of Applied Geophysics*, *155*, 199-207. [**doi:** [10.1016/j.jappgeo.2018.05.015](http://dx.doi.org/10.1016/j.jappgeo.2018.05.015)]
 - **Yuan, C.**, Jia, X., Liu, S. & Zhang, J. (2018) Microseismic reverse time migration with a multi-cross-correlation staining algorithm for fracture imaging. *Journal of Applied Geophysics*, *149*, 95-104. [**doi:** [10.1016/j.jappgeo.2017.12.019](http://dx.doi.org/10.1016/j.jappgeo.2017.12.019)]
@@ -90,4 +90,4 @@ The modes of fracturing in Earth materials exhibit a wide spectrum of time and l
 
 ### 2. Visualizing & Listening to Fracking in Porous Media
 
-### 3. Non-linear changes in mechanical properties of laboratory materials
+### 3. Non-linear changes in mechanical properties of laboratory materials -->
