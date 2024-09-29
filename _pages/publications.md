@@ -11,7 +11,7 @@ Note: (*) denotes the corresponding author. Check out my [google scholar](https:
 ## Peer-reviewed Articles (15)
 
 ---
-15. **Yuan, C.**, Zhang, X. & Zhang*, J. (2024) Feasibility of Identifying Shale Sweet Spots by Downhole Microseismic Imaging. Applied Sciences. [**doi:** [https://doi.org/10.3390/app14178056](https://doi.org/10.3390/app14178056)]
+15. **Yuan, C.** & Zhang*, J. (2024) Feasibility of Identifying Shale Sweet Spots by Downhole Microseismic Imaging. Applied Sciences. [**doi:** [https://doi.org/10.3390/app14178056](https://doi.org/10.3390/app14178056)]
 14. **Yuan*, C.**, Cochard, T., Denolle, M., Gomberg, J., Wech, A., Xiao, X. & Weitz, D. (2024) Laboratory Hydrofractures as Analogs to Tectonic Tremors. AGU Advances. [**doi:** [https://doi.org/10.1029/2023AV001002](https://doi.org/10.1029/2023AV001002)]
 13. Cochard, T., Svetlizky, I., Albertini, G., Viesca, R., **Yuan, C.**, Denolle, M., Song, Y., Xiao, L. & Weitz*, D. Propagation of extended fractures by local nucleation and rapid transverse expansion of crack-front distortion. (2024) Nature Physics. [**doi:** [https://doi.org/10.1038/s41567-023-02365-0](https://doi.org/10.1038/s41567-023-02365-0)]
 12. **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M. (2023) Better Together: Ensemble Learning for Earthquake Detection and Phase Picking. IEEE Transactions on Geoscience and Remote Sensing. [**doi:** [https:10.1109/TGRS.2023.3320148](10.1109/TGRS.2023.3320148)]
