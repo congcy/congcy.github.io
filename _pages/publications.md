@@ -7,17 +7,14 @@ author_profile: true
 
 Note: (*) denotes the corresponding author. Check out my [google scholar](https://scholar.google.com.hk/citations?user=Q3ghx0YAAAAJ&hl=en)
 
-## In Progress (2)
 
-- **Yuan*, C.**, & Zhang, J., Ensemble Learning for Earthquake First-Motion Polarity Determination. [In preparation]
-- **Yuan*, C.**, Lin, Y., Denolle, M. & Shaw, J. Reconstructing Seismograms via Self-supervised Learning. [In preparation]
-
-## Peer-reviewed Articles (14)
+## Peer-reviewed Articles (16)
 
 ---
-- **Yuan*, C.**, Cochard, T., Denolle, M., Gomberg, J., Wech, A., Xiao, X. & Weitz, D., Laboratory Hydrofractures as Analogs to Tectonic Tremors. [Accepted]
-- Cochard, T., Svetlizky, I., Albertini, G., Viesca, R., **Yuan, C.**, Denolle, M., Song, Y., Xiao, L. & Weitz*, D. Unexpected Dynamics in the Propagation of Fracture Fronts. Nature Physics. [Accepted]
-- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M. (2023) Better Together: Ensemble Learning for Earthquake Detection and Phase Picking. IEEE Transactions on Geoscience and Remote Sensing, 61. [**doi:** [https:10.1109/TGRS.2023.3320148](10.1109/TGRS.2023.3320148)]
+- **Yuan, C.**, Zhang, X. & Zhang*, J. (2021) Feasibility of Identifying Shale Sweet Spots by Downhole Microseismic Imaging. Applied Sciences. [**doi:** [https://doi.org/10.3390/app14178056](https://doi.org/10.3390/app14178056)]
+- **Yuan*, C.**, Cochard, T., Denolle, M., Gomberg, J., Wech, A., Xiao, X. & Weitz, D., Laboratory Hydrofractures as Analogs to Tectonic Tremors. AGU Advances. [**doi:** [https://doi.org/10.1029/2023AV001002](https://doi.org/10.1029/2023AV001002)]
+- Cochard, T., Svetlizky, I., Albertini, G., Viesca, R., **Yuan, C.**, Denolle, M., Song, Y., Xiao, L. & Weitz*, D. Propagation of extended fractures by local nucleation and rapid transverse expansion of crack-front distortion. Nature Physics. [**doi:** [https://doi.org/10.1038/s41567-023-02365-0](https://doi.org/10.1038/s41567-023-02365-0)]
+- **Yuan*, C.**, Ni, Y., Lin, Y. & Denolle, M. (2023) Better Together: Ensemble Learning for Earthquake Detection and Phase Picking. IEEE Transactions on Geoscience and Remote Sensing. [**doi:** [https:10.1109/TGRS.2023.3320148](10.1109/TGRS.2023.3320148)]
 - Kuang, W., **Yuan, C.**, Zou, Z., Zhang, J. & Zhang*, W. (2023) Autonomous Earthquake Location via Deep Reinforcement Learning. Seismological Research Letter. [**doi:** [https:doi.org/10.1785/0220230118](doi.org/10.1785/0220230118)]
 - Kuang, W., **Yuan, C.,** Zhang, J. & Zhang*, W. (2022) Relative Inversion Improves the Accuracy of Earthquake Focal Mechanisms. Seismological Research Letter. [**doi:** [https://doi.org/10.1785/0220210370](https://doi.org/10.1785/0220210370)]
 - Yang, Z., **Yuan, C.** & Denolle*, M. (2022) Detecting Elevated Pore Pressure in the Guy-Greenbrier Fault Zone using Ambient Noise Monitoring. The Seismic Record. [**doi:** [10.1785/0320210036](https://doi.org/10.1785/0320210036)]
@@ -29,17 +26,6 @@ Note: (*) denotes the corresponding author. Check out my [google scholar](https:
 - **Yuan, C.**, Zhang, X., Jia, X. & Zhang*, J. (2019) Time-lapse velocity imaging via deep learning. Geophysical Journal International, **220**(2), 1228-1241. [**doi:** [10.1093/gji/ggz511](https://doi.org/10.1093/gji/ggz511)]
 - **Yuan, C.** & Zhang*, J. (2018) A feasibility study of imaging hydraulic fractures with anisotropic reverse time migration. Journal of Applied Geophysics*, **155**, 199-207. [**doi:** [10.1016/j.jappgeo.2018.05.015](http://dx.doi.org/10.1016/j.jappgeo.2018.05.015)]
 - **Yuan, C.**, Jia*, X., Liu, S. & Zhang, J. (2018) Microseismic reverse time migration with a multi-cross-correlation staining algorithm for fracture imaging. Journal of Applied Geophysics, **149**, 95-104. [**doi:** [10.1016/j.jappgeo.2017.12.019](http://dx.doi.org/10.1016/j.jappgeo.2017.12.019)]
-
-## Non Peer-reviewed Articles (6)
-
----
-
-- **Yuan, C.** & Zhang*, J. (2021) Joint event location and Poisson's ratio tomography for passive seismic monitoring. EarthArXiv preprint. [**doi:** [10.31223/X52K5S](https://doi.org/10.31223/X52K5S)]
-- **Yuan, C.**, Zhang, X. & Zhang*, J. (2021) 3D microseismic imaging for identifying shale sweet spot. EarthArXiv preprint. [**doi:** [10.31223/X5689F](https://doi.org/10.31223/X5689F)]
-- **Yuan, C.,** Zhang*, W. & Zhang, J. (2020) Automatic microseismic stacking location with a multi-cross-correlation condition. EarthArXiv preprint. [**doi:** [10.31223/X5KK6T](https://doi.org/10.31223/X5KK6T)]
-- **Yuan, C.**, Han, S. & Zhang*, J. (2020) Vertical slowness constrained joint VTI parameters and event locations inversion for microseismic monitoring. EarthArXiv preprint. [**doi:** [10.31223/X5FS4W](https://doi.org/10.31223/X5FS4W)]
-- **Yuan, C.** & Zhang*, J. (2019) Applying deep learning to teleseismic phase detection and picking: PcP and PKiKP cases. ArXiv preprint. [**doi:** [1910.09049](https://arxiv.org/abs/1910.09049)]
-- **Yuan, C.** Microseismic study for source location and structure imaging. [[MS Dissertation](https://drive.google.com/file/d/1azWrErP1709uc52ng0n0MhNm6lC0joJ0/view?usp=sharing)]
 
 ## Expanded Abstracts (5)
 
