@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student studying seismology at [Department of Earth and Planetary Sciences](https://eps.harvard.edu/people/congcong-yuan), Harvard University, where I am fortunately co-advised by [Marine Denolle](https://quake.fas.harvard.edu/) and [John Shaw](https://structure.harvard.edu/). Before that, I obtained my master degree in solid geophysics at University of Science and Technology of China (USTC), under the supervision of [Jie Zhang](https://en.ess.ustc.edu.cn/2012/0827/c27105a92978/page.htm).
+I am currently a postdoc at the department of Earth and Atmospheric Sciences at Cornell University. Before that, I obtained my Ph.D. in geophysics at Harvard University, under the supervision of [Marine Denolle](https://en.ess.ustc.edu.cn/2012/0827/c27105a92978/page.htm) and [John Shaw](https://structure.harvard.edu/).
 
-As a seismologist, I conduct laboratory experiments and employ numerical simulations to interpret field observations. Conversely, I utilize extensive field data to inform and enhance theoretical models and simulations. My overarching goal is to integrate laboratory research, computational simulations, and observational data to effectively monitor earthquakes and subsurface activities, as well as to investigate novel methods for potential seismic hazard forecasting.
-My recent study focus on how fluid triggers earthquakes and how fluid and fracture influence the seismic properties of Earth and lab materials. 
+As a geophysicist, I am studying seismoacoustic wave physics to understand and infer earthquake physics, fracturing dynamics, fluid-fracture/fault interactive mechanisms, and material mechanical properties from laboratory to Earth scales. My recent research is centered around understanding and reconstructing subterranean activities associated with fractures, faults, and fluids. Specifically, how do fluids affect subsurface mechanical properties? how do fluids interact with fractures and/or faults? how to manage and foresee seismic risk and/or fluid leakage? To answer these questions, I conduct multidimensional studies, encompassing laboratory experiments, computational simulations, and observational data analysis. Ultimately, my goal is to effectively inform subsurface activities and potential risks for environmental and energy sustainability.
 
-Aside from the research, I prefer music, basketball, and hiking for my entertainment. Check out my resume! 👉 [CV](https://drive.google.com/file/d/13zXGNbWvwOsYArdBhjZ-VJ9_-7lpMwDK/view?usp=sharing)
+Aside from the research, I prefer music, basketball, and hiking for my entertainment.
 
 
 ## Recent News
