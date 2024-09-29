@@ -8,7 +8,7 @@ author_profile: true
 Note: (*) denotes the corresponding author. Check out my [google scholar](https://scholar.google.com.hk/citations?user=Q3ghx0YAAAAJ&hl=en)
 
 
-## Peer-reviewed Articles (15)
+## Peer-reviewed Journal Papers (15)
 
 ---
 15. **Yuan, C.** & Zhang*, J. (2024) Feasibility of Identifying Shale Sweet Spots by Downhole Microseismic Imaging. Applied Sciences. [**doi:** [https://doi.org/10.3390/app14178056](https://doi.org/10.3390/app14178056)]
@@ -27,7 +27,7 @@ Note: (*) denotes the corresponding author. Check out my [google scholar](https:
 2. **Yuan, C.** & Zhang*, J. (2018) A feasibility study of imaging hydraulic fractures with anisotropic reverse time migration. Journal of Applied Geophysics*, **155**, 199-207. [**doi:** [10.1016/j.jappgeo.2018.05.015](http://dx.doi.org/10.1016/j.jappgeo.2018.05.015)]
 1. **Yuan, C.**, Jia*, X., Liu, S. & Zhang, J. (2018) Microseismic reverse time migration with a multi-cross-correlation staining algorithm for fracture imaging. Journal of Applied Geophysics, **149**, 95-104. [**doi:** [10.1016/j.jappgeo.2017.12.019](http://dx.doi.org/10.1016/j.jappgeo.2017.12.019)]
 
-## Expanded Abstracts (5)
+## Peer-reviewed Conference Papers (5)
 
 ---
 
