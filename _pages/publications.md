@@ -8,7 +8,7 @@ author_profile: true
 Note: (*) denotes the corresponding author. Check out my [google scholar](https://scholar.google.com.hk/citations?user=Q3ghx0YAAAAJ&hl=en)
 
 
-## Peer-reviewed Journal Papers (15)
+## Peer-reviewed Journal Papers (17)
 
 ---
 17. **Yuan, C.** & Zhang*, J. (2025) Joint Event Location and 3D Poisson’s Ratio Tomography for Downhole Microseismic Monitoring. Geophysical Prospecting. [Accepted]
