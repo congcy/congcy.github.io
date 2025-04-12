@@ -8,10 +8,11 @@ author_profile: true
 Note: (*) denotes the corresponding author. Check out my [google scholar](https://scholar.google.com.hk/citations?user=Q3ghx0YAAAAJ&hl=en)
 
 
-## Peer-reviewed Journal Papers (17)
+## Peer-reviewed Journal Papers (18)
 
 ---
-17. **Yuan, C.** & Zhang*, J. (2025) Joint Event Location and 3D Poisson’s Ratio Tomography for Downhole Microseismic Monitoring. Geophysical Prospecting. [Accepted]
+18. **Yuan, C.** & Zhang*, J. (2025) Applying Deep Learning to Teleseismic Phase Detection and Picking: PcP and PKiKP Cases. AI in Geosciences. [**doi:** [https://doi.org/10.1016/j.aiig.2025.100108](https://doi.org/10.1016/j.aiig.2025.100108)]
+17. **Yuan, C.** & Zhang*, J. (2025) Joint Event Location and 3D Poisson’s Ratio Tomography for Downhole Microseismic Monitoring. Geophysical Prospecting. [**doi:** [https://doi.org/10.1111/1365-2478.13673](https://doi.org/10.1111/1365-2478.13673)]
 16. **Yuan, C.** & Zhang*, J. (2025) Vertical Slowness Constrained Joint Anisotropic Parameters and Event Locations Inversion for Microseismic Monitoring. Remote Sensing. [**doi:** [https://doi.org/10.3390/rs17030529](https://doi.org/10.3390/rs17030529)]
 15. **Yuan, C.** & Zhang*, J. (2024) Feasibility of Identifying Shale Sweet Spots by Downhole Microseismic Imaging. Applied Sciences. [**doi:** [https://doi.org/10.3390/app14178056](https://doi.org/10.3390/app14178056)]
 14. **Yuan*, C.**, Cochard, T., Denolle, M., Gomberg, J., Wech, A., Xiao, X. & Weitz, D. (2024) Laboratory Hydrofractures as Analogs to Tectonic Tremors. AGU Advances. [**doi:** [https://doi.org/10.1029/2023AV001002](https://doi.org/10.1029/2023AV001002)]
