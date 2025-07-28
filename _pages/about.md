@@ -13,13 +13,19 @@ As a geophysicist, I am studying seismoacoustic wave physics and mechanical proc
 
 Aside from the research, I prefer music, basketball, and hiking for my entertainment.
 
+***
 
 ## Recent News
 ### 📅 ** April 12, 2025**
 📢 I will be sharing two laboratory studies at SSA annaul meeting: 🔹1. Mechanical and Acoustic Response of Laboratory Fault-valve Media to Fluid Injections [Oral session: Mechanistic Insights into Fluid-induced Earthquakes from the Laboratory to the Field - II][📍 Key Ballroom 12][🗓 4/15/2025]  🔹2. Seismic Monitoring Analogs for Hydrothermal Processes in Controlled Fracture Networks [Poster session:  Seismology for the Energy Transition][🗓 4/16/2025]. 
 
+***
 ------
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DIbD7Z_4O-r3q8_hh87Daq4_XZxZCjI2T2vT2zrklQE"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DIbD7Z_4O-r3q8_hh87Daq4_XZxZCjI2T2vT2zrklQE&cl=ffffff&w=a"></script>
+
+<div style="transform: scale(0.6); transform-origin: top left; width: 200px; height: 200px; overflow: hidden;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DIbD7Z_4O-r3q8_hh87Daq4_XZxZCjI2T2vT2zrklQE"></script>
+</div>
 
 <!-- ### 📅 ** April 17, 2023** -->
 
