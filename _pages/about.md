@@ -21,10 +21,11 @@ Aside from the research, I prefer music, basketball, and hiking for my entertain
 
 ***
 ------
-<div style="transform: scale(0.6); transform-origin: top right; width: 300px; height: 300px; overflow: hidden;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DIbD7Z_4O-r3q8_hh87Daq4_XZxZCjI2T2vT2zrklQE"></script>
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+  <div style="transform: scale(0.6); transform-origin: top center;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DIbD7Z_4O-r3q8_hh87Daq4_XZxZCjI2T2vT2zrklQE"></script>
+  </div>
 </div>
-
 <!-- ### 📅 ** April 17, 2023** -->
 
 <!-- 🎉 **Exciting Announcement!** -->
