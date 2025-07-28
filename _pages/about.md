@@ -18,6 +18,8 @@ Aside from the research, I prefer music, basketball, and hiking for my entertain
 ### 📅 ** April 12, 2025**
 📢 I will be sharing two laboratory studies at SSA annaul meeting: 🔹1. Mechanical and Acoustic Response of Laboratory Fault-valve Media to Fluid Injections [Oral session: Mechanistic Insights into Fluid-induced Earthquakes from the Laboratory to the Field - II][📍 Key Ballroom 12][🗓 4/15/2025]  🔹2. Seismic Monitoring Analogs for Hydrothermal Processes in Controlled Fracture Networks [Poster session:  Seismology for the Energy Transition][🗓 4/16/2025]. 
 
+------
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DIbD7Z_4O-r3q8_hh87Daq4_XZxZCjI2T2vT2zrklQE"></script>
 
 <!-- ### 📅 ** April 17, 2023** -->
 
