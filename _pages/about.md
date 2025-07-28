@@ -21,9 +21,7 @@ Aside from the research, I prefer music, basketball, and hiking for my entertain
 
 ***
 ------
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DIbD7Z_4O-r3q8_hh87Daq4_XZxZCjI2T2vT2zrklQE&cl=ffffff&w=a"></script>
-
-<div style="transform: scale(0.6); transform-origin: top left; width: 200px; height: 200px; overflow: hidden;">
+<div style="transform: scale(0.6); transform-origin: top middle; width: 400px; height: 400px; overflow: hidden;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DIbD7Z_4O-r3q8_hh87Daq4_XZxZCjI2T2vT2zrklQE"></script>
 </div>
 
