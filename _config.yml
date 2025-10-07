@@ -86,13 +86,13 @@ analytics:
 # Site Author
 author:
   name             : #"Congcong Yuan"
-  avatar           : "bio_congcong.jpg"
+  avatar           : "bio.jpg"
   bio              : "I am a geophysicist studying fluid-solid interactions at lab and Earth scales."
-  location         : "Harvard"
+  location         : "Cornell"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=Q3ghx0YAAAAJ&hl=en"
-  email            : "cyuan@fas.harvard.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=SqofBfoAAAAJ&hl=en"
+  email            : "congcy07@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Congcong-Yuan-2"
   uri              :
   bitbucket        :
